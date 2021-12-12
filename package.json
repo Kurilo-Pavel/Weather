@@ -1,6 +1,6 @@
 {
   "name": "weather",
- "homepage": "https://Kurilo-Pavel.github.io/Weather",
+  "homepage": "https://Kurilo-Pavel.github.io/Weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
