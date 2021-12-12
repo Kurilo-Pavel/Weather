@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kurilo-Pavel/Weather.git/static/css/main.a7d396fa.chunk.css",
+    "main.js": "/Kurilo-Pavel/Weather.git/static/js/main.03c3b9e7.chunk.js",
+    "main.js.map": "/Kurilo-Pavel/Weather.git/static/js/main.03c3b9e7.chunk.js.map",
+    "runtime-main.js": "/Kurilo-Pavel/Weather.git/static/js/runtime-main.1729c0b7.js",
+    "runtime-main.js.map": "/Kurilo-Pavel/Weather.git/static/js/runtime-main.1729c0b7.js.map",
+    "static/js/2.02a6561e.chunk.js": "/Kurilo-Pavel/Weather.git/static/js/2.02a6561e.chunk.js",
+    "static/js/2.02a6561e.chunk.js.map": "/Kurilo-Pavel/Weather.git/static/js/2.02a6561e.chunk.js.map",
+    "index.html": "/Kurilo-Pavel/Weather.git/index.html",
+    "static/css/main.a7d396fa.chunk.css.map": "/Kurilo-Pavel/Weather.git/static/css/main.a7d396fa.chunk.css.map",
+    "static/js/2.02a6561e.chunk.js.LICENSE.txt": "/Kurilo-Pavel/Weather.git/static/js/2.02a6561e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Kurilo-Pavel/Weather.git/static/media/photo_2021-12-09_20-25-26.fed6795e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1729c0b7.js",
+    "static/js/2.02a6561e.chunk.js",
+    "static/css/main.a7d396fa.chunk.css",
+    "static/js/main.03c3b9e7.chunk.js"
+  ]
+}
