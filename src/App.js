@@ -4,7 +4,7 @@ import {DateTime} from 'luxon';
 import './App.css';
 
 const API_URL = 'https://api.openweathermap.org/data/2.5/';
-const API_KEY = '33178d46dea4c98a92d98aa6ea4ebc24';
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 class App extends Component {
   constructor(props) {
